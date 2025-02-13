@@ -1,5 +1,5 @@
 {
-  "name": "code_deck_coding_ide",
+  "name": "codeplay-coding-ide",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -24,9 +24,10 @@
     "react-dom": "^18.2.0",
     "react-icons": "^4.6.0",
     "react-router-dom": "^6.4.3",
-    "react-scripts": "5.0.1",
+    "react-scripts": "^5.0.1",
     "react-select": "^5.6.1",
     "styled-components": "^5.3.6",
+    "svgo": "^3.3.2",
     "uuid": "^9.0.0",
     "web-vitals": "^2.1.4"
   },
